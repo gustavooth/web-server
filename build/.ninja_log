@@ -1,0 +1,8 @@
+# ninja log v6
+1	19	1724381213883220576	CMakeFiles/server.dir/src/main.c.o	1d4f207ace300e67
+19	48	1724381213903220315	/home/gustavooth/source/web-server/bin/server	d9796a5e5c88130c
+1	28	1724359986377853244	CMakeFiles/server.dir/src/core/events.c.o	b1032fcdeb111eab
+1	27	1724360101049934427	CMakeFiles/server.dir/src/core/logger.c.o	6e97094fd914a0c1
+1	39	1724359986377853244	CMakeFiles/server.dir/src/containers/rexarray.c.o	7231238cb3ce5268
+2	41	1724381135834236579	CMakeFiles/server.dir/src/web/commands.c.o	6e24782d883b939e
+1	46	1724380954366632476	CMakeFiles/server.dir/src/web/server.c.o	6f784010f0e0274d

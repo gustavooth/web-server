@@ -1,0 +1,9 @@
+{
+  "files.associations": {
+    "unistd.h": "c",
+    "pthread.h": "c",
+    "stdatomic.h": "c",
+    "defines.h": "c",
+    "format": "c"
+  }
+}
